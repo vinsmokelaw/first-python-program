@@ -389,3 +389,5 @@
 #     outer_function()
 #     inner_function()  # Call the inner function from within the outer function  # Call the outer function to see both messages
 # outer_function()
+
+print("hello world")
