@@ -659,3 +659,4 @@ def multiply_by_two(x):
 def apply_function(func, value):
     return func(value)
 print(apply_function(multiply_by_two, 5))
+
